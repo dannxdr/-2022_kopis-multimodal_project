@@ -50,10 +50,11 @@
 ### 4. 연구결과
 ##### 두 모델을 합치기 위해 stacking 앙상블 기법 사용
   XGBOOST + VGG-16 ensamble 정확도 : 0.83
-  
+ 
+ (수정 필요)
 ##### 모델 예측결과 시각화
 <img src="https://user-images.githubusercontent.com/80569773/236421530-00f15756-8be1-4457-9583-741a4a5ca2a3.png" width="600" height="350"/>
 
 
 ## 📚 skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
